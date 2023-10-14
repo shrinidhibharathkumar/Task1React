@@ -1,0 +1,35 @@
+.wordcounter {
+  text-align: center;
+   margin-top: 100px;
+    margin-left: 500px;
+     padding: 1px ;
+     height: 550px;
+     width: 37%;
+     text-align: center;
+     box-sizing:content-box;
+     font-family: sitka display;
+     box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
+ }
+ 
+ textarea {
+   width: 90%;
+   height: 150px;
+   border-radius: 5px;
+   border-color: black;
+   border-width: 2px;;
+   margin-bottom: 20px;
+   padding: 10px;
+   font-size: 25px;
+   font-family: sitka display;
+ }
+ 
+ p {
+   font-size: 25px;
+   text-align: left;
+   white-space: pre;
+ }
+ 
+ h1{
+   font-size: 43px;
+ }
+ 
